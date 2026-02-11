@@ -1,0 +1,8 @@
+{
+  "name": "VidiGenius - AI Video Vault",
+  "description": "A smart video management platform with Gemini AI integration for content analysis, automated tagging, and intelligent descriptions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
